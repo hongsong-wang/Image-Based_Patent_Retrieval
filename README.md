@@ -1,6 +1,12 @@
 # Image-Based_Patent_Retrieval
 Learning Efficient Representations for Image-Based Patent Retrieval (https://arxiv.org/abs/2308.13749)
 
+# We present a simple yet strong pipeline for image-based patent retrieval which adopts a lightweight backbone and subsequently applies a neck structure to obtain low-dimensional representation for efficient patent retrieval.
+
+![Image-based patent retrieval](image-based_patent_retrieval.png)
+
+![Our proposed simple and strong baseline](baseline.png)
+
 # Approach_Description
 
 ## Motivation
